@@ -1,5 +1,5 @@
 ## Citation
-[A novel “activation switch” motif common to all aminergic receptors](https://chemrxiv.org/engage/chemrxiv/article-details/645db7c5a32ceeff2d802583)
+[A novel “activation switch” motif common to all aminergic receptors](https://doi.org/10.1021/acs.jcim.3c00732)
 
 ## Data source
 From the March 9, 2023 release of [GPCRdb](https://gpcrdb.org/pages/releasenotes/), we identified 204 structures of aminergic receptors. These structures were then filtered with the criteria described in the methods section of the above citation. As a result of this filtering process, 47 structures, representing 13 receptor subtypes, were selected for further analysis.  
