@@ -1,3 +1,5 @@
+[Return to home](../README.md)
+
 ## Citation
 [A novel “activation switch” motif common to all aminergic receptors](https://doi.org/10.1021/acs.jcim.3c00732)
 
