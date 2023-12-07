@@ -1,0 +1,80 @@
+#The lipid-protein equilibration/relaxation protocol was developed by Dmitry Lupyan in collaboration with Schrodinger Inc researchers.  Unpublished, 2009"
+# Desmond membrane relaxation protocol
+# All times are in the unit of ps.
+# Energy is in the unit of kcal/mol.
+# To customize temperature, adjust value of the "simulate.temperature" setting in the task stage.
+
+task {
+   task = "desmond:auto"
+   set_family = {
+      desmond.checkpt.write_last_step = false
+      simulate.temperature = 310
+   }
+}
+
+simulate {
+   effect_if   = [["==" "-gpu" "@*.*.jlaunch_opt[-1]"] 'ensemble.method = Langevin']
+   time        = 6000
+   timestep    = [0.002 0.002 0.006]
+   ensemble = {
+      barostat = {
+         tau = 2.0
+      }
+      class = "NPgT"
+      method = "MTK"
+      thermostat = {
+         tau = 1.0
+      }
+   }
+   cutoff_radius = 12.0
+   surface_tension = 0.0
+   restrain    = { atom = "asl:(atom.ptype N,CA,C,O) AND NOT (chain.name R AND res.num 16-35,219-325) AND NOT (chain.name A AND res.num 1-16) AND NOT (atom.na H* OR (res. POPC SPC T3P)) OR (chain.name I AND res. NA)" force_constant = 1.0 }
+   simbox = {
+      first = 0.0
+      interval = 120.0
+      name = "$JOBNAME$[_replica$REPLICA$]_simbox.dat"
+   }
+   checkpt = {
+      first = inf
+      interval = inf
+      name = "$JOBNAME.cpt"
+      write_last_step = false
+   }
+   maeff_output = {
+      first = 240.0
+      interval = 240.0
+   }
+   trajectory  = {
+      center = solute
+      first = 120.0
+      frames_per_file = 25
+      interval = 120.0
+      name = "$JOBNAME$[_replica$REPLICA$]_trj"
+      periodicfix = true
+      write_velocity = true
+   }
+   randomize_velocity = {
+      first = inf
+      interval = inf
+      seed = 9999
+      temperature = "@*.temperature"
+   }
+   backend = {
+      mdsim = {
+         plugin = {
+            status = {
+               interval = 120.0
+            }
+            eneseq = {
+               interval = 120.0
+               flush_interval = 120.0
+            }
+            trajectory.write_first_step = false
+         }
+      }
+      force.nonbonded.far = {
+         n_k = [ 64 64 64 ]
+         #n_k = [ 128 128 128 ]
+      }
+   }
+}
