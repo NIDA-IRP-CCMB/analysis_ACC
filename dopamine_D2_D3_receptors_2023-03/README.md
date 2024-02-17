@@ -3,9 +3,7 @@
 # Citation
 [Unraveling activation-related rearrangements and intrinsic divergence from ligand-induced conformational changes of the dopamine D3 and D2 receptors](https://www.biorxiv.org/content/10.1101/2023.11.11.566699v1)
 
-# Oragnization of the repository
-The results in the above citation were oragnized in different categories. 
-
+# Results
    - [Activation-related conformational changes](acc/acc_d2like.md)
      
    - [Intrinsic divergence analysis](intrinsic_divergence/d2like.md) 
