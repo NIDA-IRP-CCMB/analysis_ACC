@@ -2,7 +2,7 @@
 <br>
 # Raw data by structures (DRD2)
 [Return to "DRD2"](acc_DRD2.md)<br>
-[Return to "D2-like receptors"](acc_d2like.md)<br>
+[Return to "D2-like receptors"](readme.md)<br>
 ## Table of content
  - Distance<br>
    - [Binding site residues](#Binding-site-residues)<br>
@@ -36,7 +36,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_a.7jvr/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -49,7 +49,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_i.6cm4/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -62,7 +62,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_i.6luq/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -75,7 +75,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_i.7dfp/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -105,7 +105,7 @@ Raw<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="Binding-site-residues_pdf_cutoff_0.0_diff_a.7jvr-i.6cm4"></a><br>
 
@@ -114,7 +114,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -125,7 +125,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -136,7 +136,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -147,7 +147,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -158,7 +158,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -169,7 +169,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -196,7 +196,7 @@ Raw<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="Binding-site-residues_pdf_cutoff_0.0_diff_a.7jvr-i.6luq"></a><br>
 
@@ -205,7 +205,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -216,7 +216,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -227,7 +227,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -238,7 +238,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -249,7 +249,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -260,7 +260,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -287,7 +287,7 @@ Raw<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="Binding-site-residues_pdf_cutoff_0.0_diff_a.7jvr-i.7dfp"></a><br>
 
@@ -296,7 +296,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -307,7 +307,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -318,7 +318,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -329,7 +329,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -340,7 +340,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -351,7 +351,7 @@ Raw<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -386,7 +386,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_a.7jvr/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Sub-segments_6cm4></a><br>
@@ -398,7 +398,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_i.6cm4/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Sub-segments_6luq></a><br>
@@ -410,7 +410,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_i.6luq/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Sub-segments_7dfp></a><br>
@@ -422,7 +422,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_i.7dfp/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <br>
@@ -451,7 +451,7 @@ Raw<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="Sub-segments_pdf_cutoff_0.0_diff_a.7jvr-i.6cm4"></a><br>
 
@@ -460,7 +460,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -471,7 +471,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -482,7 +482,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -493,7 +493,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -504,7 +504,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -515,7 +515,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -542,7 +542,7 @@ Raw<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="Sub-segments_pdf_cutoff_0.0_diff_a.7jvr-i.6luq"></a><br>
 
@@ -551,7 +551,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -562,7 +562,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -573,7 +573,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -584,7 +584,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -595,7 +595,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -606,7 +606,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -633,7 +633,7 @@ Raw<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="Sub-segments_pdf_cutoff_0.0_diff_a.7jvr-i.7dfp"></a><br>
 
@@ -642,7 +642,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -653,7 +653,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -664,7 +664,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -675,7 +675,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -686,7 +686,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -697,7 +697,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -732,7 +732,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_a.7jvr/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/end_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Extracellular-ends_6cm4></a><br>
@@ -744,7 +744,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_i.6cm4/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/end_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Extracellular-ends_6luq></a><br>
@@ -756,7 +756,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_i.6luq/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/end_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Extracellular-ends_7dfp></a><br>
@@ -768,7 +768,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/raw_i.7dfp/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/end_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <br>
@@ -797,7 +797,7 @@ Raw<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="Extracellular-ends_pdf_cutoff_0.0_diff_a.7jvr-i.6cm4"></a><br>
 
@@ -806,7 +806,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -817,7 +817,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -828,7 +828,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -839,7 +839,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -850,7 +850,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -861,7 +861,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -888,7 +888,7 @@ Raw<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="Extracellular-ends_pdf_cutoff_0.0_diff_a.7jvr-i.6luq"></a><br>
 
@@ -897,7 +897,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -908,7 +908,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -919,7 +919,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -930,7 +930,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -941,7 +941,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -952,7 +952,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -979,7 +979,7 @@ Raw<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="Extracellular-ends_pdf_cutoff_0.0_diff_a.7jvr-i.7dfp"></a><br>
 
@@ -988,7 +988,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -999,7 +999,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -1010,7 +1010,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -1021,7 +1021,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -1032,7 +1032,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -1043,7 +1043,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../aminergic_receptors_2023-03/heatmaps_aminergic/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
