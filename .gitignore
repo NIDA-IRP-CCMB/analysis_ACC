@@ -1,0 +1,50 @@
+# analysis_ACC — published data for the Shi Lab structural analyses.
+#
+# Deliberately narrow. This repository's content *is* data files, so rules that
+# match by extension are dangerous here: a pattern like `*.tar.gz` or
+# `*_notext.png` reads as housekeeping but would hide published results, and the
+# next commit would look like a mass deletion. Ignore only what a machine or an
+# editor leaves behind, never anything an analysis produced.
+#
+# tests/test_published_tree.py asserts that no tracked file matches a rule here.
+
+# ---------------------------------------------------------------- OS litter
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.AppleDouble
+.LSOverride
+Icon?
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.directory
+.Trash-*
+
+# ------------------------------------------------------------ editors, IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.\#*
+\#*\#
+
+# -------------------------------------------------------------------- Python
+# The integrity tests under tests/ are the only code here.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
