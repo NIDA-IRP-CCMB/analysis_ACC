@@ -21,9 +21,9 @@
 
 <strong>Pairwise distance difference</strong>
 
- - [7JVR (active) - 6CM4 (inactive)](#Binding-site-residues_diff_a.7jvr-i.6cm4)<br>
- - [7JVR (active) - 6LUQ (inactive)](#Binding-site-residues_diff_a.7jvr-i.6luq)<br>
- - [7JVR (active) - 7DFP (inactive)](#Binding-site-residues_diff_a.7jvr-i.7dfp)<br>
+ - [7JVR (active) - 6CM4 (inactive)](#Binding-site-residues_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+ - [7JVR (active) - 6LUQ (inactive)](#Binding-site-residues_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+ - [7JVR (active) - 7DFP (inactive)](#Binding-site-residues_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
 <br>
 
 #### Pairwise distance
@@ -36,7 +36,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.a.7jvr/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -49,7 +49,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6cm4/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -62,7 +62,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6luq/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -75,7 +75,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.7dfp/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -83,7 +83,7 @@
 <br>
 
 #### Pairwise distance difference
-<a name=Binding-site-residues_diff_a.7jvr-i.6cm4></a><br>
+<a name=Binding-site-residues_diff_DRD2.a.7jvr-DRD2.i.6cm4></a><br>
 
 ### 7JVR (active) - 6CM4 (inactive)<br>
 
@@ -91,90 +91,90 @@
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
-- [Raw](#Binding-site-residues_pdf_raw_diff_a.7jvr-i.6cm4)<br>
+- [Raw](#Binding-site-residues_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
 - Classified<br>
-    - [Threshold = 0.0 (Å)](#Binding-site-residues_pdf_cutoff_0.0_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.2 (Å)](#Binding-site-residues_pdf_cutoff_0.2_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.4 (Å)](#Binding-site-residues_pdf_cutoff_0.4_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.6 (Å)](#Binding-site-residues_pdf_cutoff_0.6_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.8 (Å)](#Binding-site-residues_pdf_cutoff_0.8_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 1.0 (Å)](#Binding-site-residues_pdf_cutoff_1.0_diff_a.7jvr-i.6cm4)<br>
+    - [Threshold = 0.0 (Å)](#Binding-site-residues_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.2 (Å)](#Binding-site-residues_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.4 (Å)](#Binding-site-residues_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.6 (Å)](#Binding-site-residues_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.8 (Å)](#Binding-site-residues_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 1.0 (Å)](#Binding-site-residues_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
 <br>
-<a name="Binding-site-residues_pdf_raw_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Binding-site-residues_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 Raw<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
-<a name="Binding-site-residues_pdf_cutoff_0.0_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.0 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.2_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.2 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.4_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.4 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.6_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.6 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.8_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.8 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_1.0_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 1.0 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
 <br>
-<a name=Binding-site-residues_diff_a.7jvr-i.6luq></a><br>
+<a name=Binding-site-residues_diff_DRD2.a.7jvr-DRD2.i.6luq></a><br>
 
 ### 7JVR (active) - 6LUQ (inactive)<br>
 
@@ -182,90 +182,90 @@ Raw<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
-- [Raw](#Binding-site-residues_pdf_raw_diff_a.7jvr-i.6luq)<br>
+- [Raw](#Binding-site-residues_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
 - Classified<br>
-    - [Threshold = 0.0 (Å)](#Binding-site-residues_pdf_cutoff_0.0_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.2 (Å)](#Binding-site-residues_pdf_cutoff_0.2_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.4 (Å)](#Binding-site-residues_pdf_cutoff_0.4_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.6 (Å)](#Binding-site-residues_pdf_cutoff_0.6_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.8 (Å)](#Binding-site-residues_pdf_cutoff_0.8_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 1.0 (Å)](#Binding-site-residues_pdf_cutoff_1.0_diff_a.7jvr-i.6luq)<br>
+    - [Threshold = 0.0 (Å)](#Binding-site-residues_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.2 (Å)](#Binding-site-residues_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.4 (Å)](#Binding-site-residues_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.6 (Å)](#Binding-site-residues_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.8 (Å)](#Binding-site-residues_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 1.0 (Å)](#Binding-site-residues_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
 <br>
-<a name="Binding-site-residues_pdf_raw_diff_a.7jvr-i.6luq"></a><br>
+<a name="Binding-site-residues_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 Raw<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
-<a name="Binding-site-residues_pdf_cutoff_0.0_diff_a.7jvr-i.6luq"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.0 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.2_diff_a.7jvr-i.6luq"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.2 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.4_diff_a.7jvr-i.6luq"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.4 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.6_diff_a.7jvr-i.6luq"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.6 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.8_diff_a.7jvr-i.6luq"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.8 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_1.0_diff_a.7jvr-i.6luq"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 1.0 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
 <br>
-<a name=Binding-site-residues_diff_a.7jvr-i.7dfp></a><br>
+<a name=Binding-site-residues_diff_DRD2.a.7jvr-DRD2.i.7dfp></a><br>
 
 ### 7JVR (active) - 7DFP (inactive)<br>
 
@@ -273,85 +273,85 @@ Raw<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
-- [Raw](#Binding-site-residues_pdf_raw_diff_a.7jvr-i.7dfp)<br>
+- [Raw](#Binding-site-residues_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
 - Classified<br>
-    - [Threshold = 0.0 (Å)](#Binding-site-residues_pdf_cutoff_0.0_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.2 (Å)](#Binding-site-residues_pdf_cutoff_0.2_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.4 (Å)](#Binding-site-residues_pdf_cutoff_0.4_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.6 (Å)](#Binding-site-residues_pdf_cutoff_0.6_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.8 (Å)](#Binding-site-residues_pdf_cutoff_0.8_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 1.0 (Å)](#Binding-site-residues_pdf_cutoff_1.0_diff_a.7jvr-i.7dfp)<br>
+    - [Threshold = 0.0 (Å)](#Binding-site-residues_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.2 (Å)](#Binding-site-residues_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.4 (Å)](#Binding-site-residues_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.6 (Å)](#Binding-site-residues_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.8 (Å)](#Binding-site-residues_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 1.0 (Å)](#Binding-site-residues_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
 <br>
-<a name="Binding-site-residues_pdf_raw_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Binding-site-residues_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 Raw<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
-<a name="Binding-site-residues_pdf_cutoff_0.0_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.0 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.2_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.2 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.4_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.4 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.6_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.6 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_0.8_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 0.8 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
-<a name="Binding-site-residues_pdf_cutoff_1.0_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Binding-site-residues_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Binding site residues (active - inactive), distance threshold = 1.0 (Å)<br>
 
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="50"/></td>
 </tr></table>
 <br>
@@ -371,9 +371,9 @@ Raw<br>
 
 <strong>Pairwise distance difference</strong>
 
- - [7JVR (active) - 6CM4 (inactive)](#Sub-segments_diff_a.7jvr-i.6cm4)<br>
- - [7JVR (active) - 6LUQ (inactive)](#Sub-segments_diff_a.7jvr-i.6luq)<br>
- - [7JVR (active) - 7DFP (inactive)](#Sub-segments_diff_a.7jvr-i.7dfp)<br>
+ - [7JVR (active) - 6CM4 (inactive)](#Sub-segments_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+ - [7JVR (active) - 6LUQ (inactive)](#Sub-segments_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+ - [7JVR (active) - 7DFP (inactive)](#Sub-segments_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
 <br>
 
 #### Pairwise distance
@@ -386,7 +386,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.a.7jvr/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Sub-segments_6cm4></a><br>
@@ -398,7 +398,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6cm4/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Sub-segments_6luq></a><br>
@@ -410,7 +410,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6luq/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Sub-segments_7dfp></a><br>
@@ -422,14 +422,14 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.7dfp/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <br>
 <br>
 
 #### Pairwise distance difference
-<a name=Sub-segments_diff_a.7jvr-i.6cm4></a><br>
+<a name=Sub-segments_diff_DRD2.a.7jvr-DRD2.i.6cm4></a><br>
 
 ### 7JVR (active) - 6CM4 (inactive)<br>
 
@@ -437,90 +437,90 @@ Raw<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
-- [Raw](#Sub-segments_pdf_raw_diff_a.7jvr-i.6cm4)<br>
+- [Raw](#Sub-segments_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
 - Classified<br>
-    - [Threshold = 0.0 (Å)](#Sub-segments_pdf_cutoff_0.0_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.2 (Å)](#Sub-segments_pdf_cutoff_0.2_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.4 (Å)](#Sub-segments_pdf_cutoff_0.4_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.6 (Å)](#Sub-segments_pdf_cutoff_0.6_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.8 (Å)](#Sub-segments_pdf_cutoff_0.8_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 1.0 (Å)](#Sub-segments_pdf_cutoff_1.0_diff_a.7jvr-i.6cm4)<br>
+    - [Threshold = 0.0 (Å)](#Sub-segments_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.2 (Å)](#Sub-segments_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.4 (Å)](#Sub-segments_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.6 (Å)](#Sub-segments_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.8 (Å)](#Sub-segments_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 1.0 (Å)](#Sub-segments_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
 <br>
-<a name="Sub-segments_pdf_raw_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Sub-segments_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 Raw<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
-<a name="Sub-segments_pdf_cutoff_0.0_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.0 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.2_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.2 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.4_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.4 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.6_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.6 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.8_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.8 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_1.0_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Sub-segments_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 1.0 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <br>
-<a name=Sub-segments_diff_a.7jvr-i.6luq></a><br>
+<a name=Sub-segments_diff_DRD2.a.7jvr-DRD2.i.6luq></a><br>
 
 ### 7JVR (active) - 6LUQ (inactive)<br>
 
@@ -528,90 +528,90 @@ Raw<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
-- [Raw](#Sub-segments_pdf_raw_diff_a.7jvr-i.6luq)<br>
+- [Raw](#Sub-segments_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
 - Classified<br>
-    - [Threshold = 0.0 (Å)](#Sub-segments_pdf_cutoff_0.0_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.2 (Å)](#Sub-segments_pdf_cutoff_0.2_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.4 (Å)](#Sub-segments_pdf_cutoff_0.4_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.6 (Å)](#Sub-segments_pdf_cutoff_0.6_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.8 (Å)](#Sub-segments_pdf_cutoff_0.8_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 1.0 (Å)](#Sub-segments_pdf_cutoff_1.0_diff_a.7jvr-i.6luq)<br>
+    - [Threshold = 0.0 (Å)](#Sub-segments_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.2 (Å)](#Sub-segments_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.4 (Å)](#Sub-segments_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.6 (Å)](#Sub-segments_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.8 (Å)](#Sub-segments_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 1.0 (Å)](#Sub-segments_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
 <br>
-<a name="Sub-segments_pdf_raw_diff_a.7jvr-i.6luq"></a><br>
+<a name="Sub-segments_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 Raw<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
-<a name="Sub-segments_pdf_cutoff_0.0_diff_a.7jvr-i.6luq"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.0 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.2_diff_a.7jvr-i.6luq"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.2 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.4_diff_a.7jvr-i.6luq"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.4 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.6_diff_a.7jvr-i.6luq"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.6 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.8_diff_a.7jvr-i.6luq"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.8 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_1.0_diff_a.7jvr-i.6luq"></a><br>
+<a name="Sub-segments_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 1.0 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <br>
-<a name=Sub-segments_diff_a.7jvr-i.7dfp></a><br>
+<a name=Sub-segments_diff_DRD2.a.7jvr-DRD2.i.7dfp></a><br>
 
 ### 7JVR (active) - 7DFP (inactive)<br>
 
@@ -619,85 +619,85 @@ Raw<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
-- [Raw](#Sub-segments_pdf_raw_diff_a.7jvr-i.7dfp)<br>
+- [Raw](#Sub-segments_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
 - Classified<br>
-    - [Threshold = 0.0 (Å)](#Sub-segments_pdf_cutoff_0.0_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.2 (Å)](#Sub-segments_pdf_cutoff_0.2_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.4 (Å)](#Sub-segments_pdf_cutoff_0.4_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.6 (Å)](#Sub-segments_pdf_cutoff_0.6_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.8 (Å)](#Sub-segments_pdf_cutoff_0.8_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 1.0 (Å)](#Sub-segments_pdf_cutoff_1.0_diff_a.7jvr-i.7dfp)<br>
+    - [Threshold = 0.0 (Å)](#Sub-segments_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.2 (Å)](#Sub-segments_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.4 (Å)](#Sub-segments_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.6 (Å)](#Sub-segments_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.8 (Å)](#Sub-segments_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 1.0 (Å)](#Sub-segments_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
 <br>
-<a name="Sub-segments_pdf_raw_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Sub-segments_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 Raw<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
-<a name="Sub-segments_pdf_cutoff_0.0_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.0 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.2_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.2 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.4_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.4 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.6_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.6 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_0.8_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Sub-segments_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 0.8 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Sub-segments_pdf_cutoff_1.0_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Sub-segments_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Sub-segments (active - inactive), distance threshold = 1.0 (Å)<br>
 
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -717,9 +717,9 @@ Raw<br>
 
 <strong>Pairwise distance difference</strong>
 
- - [7JVR (active) - 6CM4 (inactive)](#Extracellular-ends_diff_a.7jvr-i.6cm4)<br>
- - [7JVR (active) - 6LUQ (inactive)](#Extracellular-ends_diff_a.7jvr-i.6luq)<br>
- - [7JVR (active) - 7DFP (inactive)](#Extracellular-ends_diff_a.7jvr-i.7dfp)<br>
+ - [7JVR (active) - 6CM4 (inactive)](#Extracellular-ends_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+ - [7JVR (active) - 6LUQ (inactive)](#Extracellular-ends_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+ - [7JVR (active) - 7DFP (inactive)](#Extracellular-ends_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
 <br>
 
 #### Pairwise distance
@@ -732,7 +732,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/end_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.a.7jvr/end_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Extracellular-ends_6cm4></a><br>
@@ -744,7 +744,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/end_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6cm4/end_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Extracellular-ends_6luq></a><br>
@@ -756,7 +756,7 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/end_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6luq/end_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name=Extracellular-ends_7dfp></a><br>
@@ -768,14 +768,14 @@ Raw<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/end_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.7dfp/end_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <br>
 <br>
 
 #### Pairwise distance difference
-<a name=Extracellular-ends_diff_a.7jvr-i.6cm4></a><br>
+<a name=Extracellular-ends_diff_DRD2.a.7jvr-DRD2.i.6cm4></a><br>
 
 ### 7JVR (active) - 6CM4 (inactive)<br>
 
@@ -783,90 +783,90 @@ Raw<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
-- [Raw](#Extracellular-ends_pdf_raw_diff_a.7jvr-i.6cm4)<br>
+- [Raw](#Extracellular-ends_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
 - Classified<br>
-    - [Threshold = 0.0 (Å)](#Extracellular-ends_pdf_cutoff_0.0_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.2 (Å)](#Extracellular-ends_pdf_cutoff_0.2_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.4 (Å)](#Extracellular-ends_pdf_cutoff_0.4_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.6 (Å)](#Extracellular-ends_pdf_cutoff_0.6_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 0.8 (Å)](#Extracellular-ends_pdf_cutoff_0.8_diff_a.7jvr-i.6cm4)<br>
-    - [Threshold = 1.0 (Å)](#Extracellular-ends_pdf_cutoff_1.0_diff_a.7jvr-i.6cm4)<br>
+    - [Threshold = 0.0 (Å)](#Extracellular-ends_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.2 (Å)](#Extracellular-ends_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.4 (Å)](#Extracellular-ends_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.6 (Å)](#Extracellular-ends_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 0.8 (Å)](#Extracellular-ends_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
+    - [Threshold = 1.0 (Å)](#Extracellular-ends_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6cm4)<br>
 <br>
-<a name="Extracellular-ends_pdf_raw_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Extracellular-ends_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 Raw<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
-<a name="Extracellular-ends_pdf_cutoff_0.0_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.0 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.2_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.2 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.4_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.4 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.6_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.6 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.8_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.8 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_1.0_diff_a.7jvr-i.6cm4"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6cm4"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 1.0 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <br>
-<a name=Extracellular-ends_diff_a.7jvr-i.6luq></a><br>
+<a name=Extracellular-ends_diff_DRD2.a.7jvr-DRD2.i.6luq></a><br>
 
 ### 7JVR (active) - 6LUQ (inactive)<br>
 
@@ -874,90 +874,90 @@ Raw<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
-- [Raw](#Extracellular-ends_pdf_raw_diff_a.7jvr-i.6luq)<br>
+- [Raw](#Extracellular-ends_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
 - Classified<br>
-    - [Threshold = 0.0 (Å)](#Extracellular-ends_pdf_cutoff_0.0_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.2 (Å)](#Extracellular-ends_pdf_cutoff_0.2_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.4 (Å)](#Extracellular-ends_pdf_cutoff_0.4_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.6 (Å)](#Extracellular-ends_pdf_cutoff_0.6_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 0.8 (Å)](#Extracellular-ends_pdf_cutoff_0.8_diff_a.7jvr-i.6luq)<br>
-    - [Threshold = 1.0 (Å)](#Extracellular-ends_pdf_cutoff_1.0_diff_a.7jvr-i.6luq)<br>
+    - [Threshold = 0.0 (Å)](#Extracellular-ends_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.2 (Å)](#Extracellular-ends_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.4 (Å)](#Extracellular-ends_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.6 (Å)](#Extracellular-ends_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 0.8 (Å)](#Extracellular-ends_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
+    - [Threshold = 1.0 (Å)](#Extracellular-ends_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6luq)<br>
 <br>
-<a name="Extracellular-ends_pdf_raw_diff_a.7jvr-i.6luq"></a><br>
+<a name="Extracellular-ends_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 Raw<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
-<a name="Extracellular-ends_pdf_cutoff_0.0_diff_a.7jvr-i.6luq"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.0 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.2_diff_a.7jvr-i.6luq"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.2 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.4_diff_a.7jvr-i.6luq"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.4 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.6_diff_a.7jvr-i.6luq"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.6 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.8_diff_a.7jvr-i.6luq"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.8 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_1.0_diff_a.7jvr-i.6luq"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.6luq"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 1.0 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <br>
-<a name=Extracellular-ends_diff_a.7jvr-i.7dfp></a><br>
+<a name=Extracellular-ends_diff_DRD2.a.7jvr-DRD2.i.7dfp></a><br>
 
 ### 7JVR (active) - 7DFP (inactive)<br>
 
@@ -965,85 +965,85 @@ Raw<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
-- [Raw](#Extracellular-ends_pdf_raw_diff_a.7jvr-i.7dfp)<br>
+- [Raw](#Extracellular-ends_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
 - Classified<br>
-    - [Threshold = 0.0 (Å)](#Extracellular-ends_pdf_cutoff_0.0_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.2 (Å)](#Extracellular-ends_pdf_cutoff_0.2_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.4 (Å)](#Extracellular-ends_pdf_cutoff_0.4_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.6 (Å)](#Extracellular-ends_pdf_cutoff_0.6_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 0.8 (Å)](#Extracellular-ends_pdf_cutoff_0.8_diff_a.7jvr-i.7dfp)<br>
-    - [Threshold = 1.0 (Å)](#Extracellular-ends_pdf_cutoff_1.0_diff_a.7jvr-i.7dfp)<br>
+    - [Threshold = 0.0 (Å)](#Extracellular-ends_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.2 (Å)](#Extracellular-ends_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.4 (Å)](#Extracellular-ends_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.6 (Å)](#Extracellular-ends_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 0.8 (Å)](#Extracellular-ends_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
+    - [Threshold = 1.0 (Å)](#Extracellular-ends_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.7dfp)<br>
 <br>
-<a name="Extracellular-ends_pdf_raw_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Extracellular-ends_pdf_raw_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 Raw<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
-<a name="Extracellular-ends_pdf_cutoff_0.0_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.0_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.0 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.2_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.2_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.2 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.4_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.4_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.4 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.6_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.6_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.6 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_0.8_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_0.8_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 0.8 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
-<a name="Extracellular-ends_pdf_cutoff_1.0_diff_a.7jvr-i.7dfp"></a><br>
+<a name="Extracellular-ends_pdf_cutoff_1.0_diff_DRD2.a.7jvr-DRD2.i.7dfp"></a><br>
 
 #### Extracellular-ends (active - inactive), distance threshold = 1.0 (Å)<br>
 
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>

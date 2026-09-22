@@ -19,7 +19,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="raw_a.8irt/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_DRD3.a.8irt/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -30,47 +30,47 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="raw_i.8irs/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.a.8irs/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 
 #### D3R - D2R<br>
-<img src="diff_a.8irt-i.8irs/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 #### Binding site residues (D3R - D2R), distance threshold = 0.0 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Binding site residues (D3R - D2R), distance threshold = 0.2 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Binding site residues (D3R - D2R), distance threshold = 0.4 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Binding site residues (D3R - D2R), distance threshold = 0.6 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Binding site residues (D3R - D2R), distance threshold = 0.8 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Binding site residues (D3R - D2R), distance threshold = 1.0 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -85,7 +85,7 @@
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="raw_a.8irt/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD3.a.8irt/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -96,47 +96,47 @@
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="raw_i.8irs/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.a.8irs/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 
 #### D3R - D2R<br>
-<img src="diff_a.8irt-i.8irs/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 #### Sub-segments (D3R - D2R), distance threshold = 0.0 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Sub-segments (D3R - D2R), distance threshold = 0.2 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Sub-segments (D3R - D2R), distance threshold = 0.4 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Sub-segments (D3R - D2R), distance threshold = 0.6 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Sub-segments (D3R - D2R), distance threshold = 0.8 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Sub-segments (D3R - D2R), distance threshold = 1.0 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -151,7 +151,7 @@
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="raw_a.8irt/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD3.a.8irt/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -162,47 +162,47 @@
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="raw_i.8irs/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.a.8irs/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 
 #### D3R - D2R<br>
-<img src="diff_a.8irt-i.8irs/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 #### Extracellular-ends (D3R - D2R), distance threshold = 0.0 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Extracellular-ends (D3R - D2R), distance threshold = 0.2 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Extracellular-ends (D3R - D2R), distance threshold = 0.4 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Extracellular-ends (D3R - D2R), distance threshold = 0.6 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Extracellular-ends (D3R - D2R), distance threshold = 0.8 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 #### Extracellular-ends (D3R - D2R), distance threshold = 1.0 (Å)<br>
 <table><tr>
-<img src="diff_a.8irt-i.8irs/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD3.a.8irt-DRD2.a.8irs/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>

@@ -33,7 +33,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmu/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmu/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -46,7 +46,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmv/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmv/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -59,7 +59,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.a.7jvr/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -279,7 +279,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmu/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmu/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -292,7 +292,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmv/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmv/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -305,7 +305,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.a.7jvr/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>

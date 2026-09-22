@@ -37,19 +37,19 @@
 <a name="bsi_matrixBinding-site-residues_8E9Z_active"></a>
 ###### 8E9Z (active)
 [Return to "Binding site residues"](#Binding-site-residues)<br>
-<img src="raw_a.8e9z/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_ACM3.a.8e9z/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 <br><br>
 <a name="bsi_matrixBinding-site-residues_4U15_inactive"></a>
 ###### 4U15 (inactive)
 [Return to "Binding site residues"](#Binding-site-residues)<br>
-<img src="raw_i.4u15/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_ACM3.i.4u15/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 <br><br>
 <a name="bsi_matrixBinding-site-residues_5ZHP_inactive"></a>
 ###### 5ZHP (inactive)
 [Return to "Binding site residues"](#Binding-site-residues)<br>
-<img src="raw_i.5zhp/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_ACM3.i.5zhp/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 <br><br>
 <br>
@@ -72,42 +72,42 @@
 <a name="rawbsi_matrixBinding-site-residues8e9z4u15"></a>
 Raw<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="0_0bsi_matrixBinding-site-residues8e9z4u15"></a>
 Threshold = 0.0 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_2bsi_matrixBinding-site-residues8e9z4u15"></a>
 Threshold = 0.2 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_4bsi_matrixBinding-site-residues8e9z4u15"></a>
 Threshold = 0.4 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_6bsi_matrixBinding-site-residues8e9z4u15"></a>
 Threshold = 0.6 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_8bsi_matrixBinding-site-residues8e9z4u15"></a>
 Threshold = 0.8 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="1_0bsi_matrixBinding-site-residues8e9z4u15"></a>
 Threshold = 1.0 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="bsi_matrixBinding-site-residues8e9z5zhp"></a>
@@ -126,42 +126,42 @@ Threshold = 1.0 (Å)<br>
 <a name="rawbsi_matrixBinding-site-residues8e9z5zhp"></a>
 Raw<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="0_0bsi_matrixBinding-site-residues8e9z5zhp"></a>
 Threshold = 0.0 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_2bsi_matrixBinding-site-residues8e9z5zhp"></a>
 Threshold = 0.2 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_4bsi_matrixBinding-site-residues8e9z5zhp"></a>
 Threshold = 0.4 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_6bsi_matrixBinding-site-residues8e9z5zhp"></a>
 Threshold = 0.6 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_8bsi_matrixBinding-site-residues8e9z5zhp"></a>
 Threshold = 0.8 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="1_0bsi_matrixBinding-site-residues8e9z5zhp"></a>
 Threshold = 1.0 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#bsi_matrixBinding-site-residues8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <br>
@@ -188,19 +188,19 @@ Threshold = 1.0 (Å)<br>
 <a name="pia_distmatSub-segments_8E9Z_active"></a>
 ###### 8E9Z (active)
 [Return to "Sub-segments"](#Sub-segments)<br>
-<img src="raw_a.8e9z/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_ACM3.a.8e9z/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 <br><br>
 <a name="pia_distmatSub-segments_4U15_inactive"></a>
 ###### 4U15 (inactive)
 [Return to "Sub-segments"](#Sub-segments)<br>
-<img src="raw_i.4u15/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_ACM3.i.4u15/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 <br><br>
 <a name="pia_distmatSub-segments_5ZHP_inactive"></a>
 ###### 5ZHP (inactive)
 [Return to "Sub-segments"](#Sub-segments)<br>
-<img src="raw_i.5zhp/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_ACM3.i.5zhp/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 <br><br>
 <br>
@@ -223,42 +223,42 @@ Threshold = 1.0 (Å)<br>
 <a name="rawpia_distmatSub-segments8e9z4u15"></a>
 Raw<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="0_0pia_distmatSub-segments8e9z4u15"></a>
 Threshold = 0.0 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_2pia_distmatSub-segments8e9z4u15"></a>
 Threshold = 0.2 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_4pia_distmatSub-segments8e9z4u15"></a>
 Threshold = 0.4 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_6pia_distmatSub-segments8e9z4u15"></a>
 Threshold = 0.6 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_8pia_distmatSub-segments8e9z4u15"></a>
 Threshold = 0.8 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="1_0pia_distmatSub-segments8e9z4u15"></a>
 Threshold = 1.0 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="pia_distmatSub-segments8e9z5zhp"></a>
@@ -277,42 +277,42 @@ Threshold = 1.0 (Å)<br>
 <a name="rawpia_distmatSub-segments8e9z5zhp"></a>
 Raw<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="0_0pia_distmatSub-segments8e9z5zhp"></a>
 Threshold = 0.0 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_2pia_distmatSub-segments8e9z5zhp"></a>
 Threshold = 0.2 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_4pia_distmatSub-segments8e9z5zhp"></a>
 Threshold = 0.4 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_6pia_distmatSub-segments8e9z5zhp"></a>
 Threshold = 0.6 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_8pia_distmatSub-segments8e9z5zhp"></a>
 Threshold = 0.8 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="1_0pia_distmatSub-segments8e9z5zhp"></a>
 Threshold = 1.0 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#pia_distmatSub-segments8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <br>
@@ -339,19 +339,19 @@ Threshold = 1.0 (Å)<br>
 <a name="end_distmatExtracellular-ends_8E9Z_active"></a>
 ###### 8E9Z (active)
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
-<img src="raw_a.8e9z/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_ACM3.a.8e9z/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 <br><br>
 <a name="end_distmatExtracellular-ends_4U15_inactive"></a>
 ###### 4U15 (inactive)
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
-<img src="raw_i.4u15/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_ACM3.i.4u15/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 <br><br>
 <a name="end_distmatExtracellular-ends_5ZHP_inactive"></a>
 ###### 5ZHP (inactive)
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
-<img src="raw_i.5zhp/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_ACM3.i.5zhp/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 <br><br>
 <br>
@@ -374,42 +374,42 @@ Threshold = 1.0 (Å)<br>
 <a name="rawend_distmatExtracellular-ends8e9z4u15"></a>
 Raw<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="0_0end_distmatExtracellular-ends8e9z4u15"></a>
 Threshold = 0.0 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_2end_distmatExtracellular-ends8e9z4u15"></a>
 Threshold = 0.2 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_4end_distmatExtracellular-ends8e9z4u15"></a>
 Threshold = 0.4 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_6end_distmatExtracellular-ends8e9z4u15"></a>
 Threshold = 0.6 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_8end_distmatExtracellular-ends8e9z4u15"></a>
 Threshold = 0.8 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="1_0end_distmatExtracellular-ends8e9z4u15"></a>
 Threshold = 1.0 (Å)<br>
 [Return to "8E9Z (active) - 4U15 (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z4u15)<br>
-<img src="diff_a.8e9z-i.4u15/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="end_distmatExtracellular-ends8e9z5zhp"></a>
@@ -428,42 +428,42 @@ Threshold = 1.0 (Å)<br>
 <a name="rawend_distmatExtracellular-ends8e9z5zhp"></a>
 Raw<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <a name="0_0end_distmatExtracellular-ends8e9z5zhp"></a>
 Threshold = 0.0 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_2end_distmatExtracellular-ends8e9z5zhp"></a>
 Threshold = 0.2 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_4end_distmatExtracellular-ends8e9z5zhp"></a>
 Threshold = 0.4 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_6end_distmatExtracellular-ends8e9z5zhp"></a>
 Threshold = 0.6 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="0_8end_distmatExtracellular-ends8e9z5zhp"></a>
 Threshold = 0.8 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <a name="1_0end_distmatExtracellular-ends8e9z5zhp"></a>
 Threshold = 1.0 (Å)<br>
 [Return to "8E9Z (active) - 5ZHP (inactive) pairwise distance difference"](#end_distmatExtracellular-ends8e9z5zhp)<br>
-<img src="diff_a.8e9z-i.5zhp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_ramp.png" alt="drawing" width="75"/></td>
 <br>
 <br>
@@ -501,37 +501,37 @@ Threshold = 1.0 (Å)<br>
 
 #### triangle area (CA), area threshold = 0.0 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle0_8_ca"></a><br>
 
 #### triangle area (CA), area threshold = 0.8 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle1_6_ca"></a><br>
 
 #### triangle area (CA), area threshold = 1.6 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle2_4_ca"></a><br>
 
 #### triangle area (CA), area threshold = 2.4 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle3_2_ca"></a><br>
 
 #### triangle area (CA), area threshold = 3.2 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle4_0_ca"></a><br>
 
 #### triangle area (CA), area threshold = 4.0 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle8e9z5zhp_ca"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (CA)
@@ -550,37 +550,37 @@ Threshold = 1.0 (Å)<br>
 
 #### triangle area (CA), area threshold = 0.0 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle0_8_ca"></a><br>
 
 #### triangle area (CA), area threshold = 0.8 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle1_6_ca"></a><br>
 
 #### triangle area (CA), area threshold = 1.6 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle2_4_ca"></a><br>
 
 #### triangle area (CA), area threshold = 2.4 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle3_2_ca"></a><br>
 
 #### triangle area (CA), area threshold = 3.2 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle4_0_ca"></a><br>
 
 #### triangle area (CA), area threshold = 4.0 (Å2)<br>
 [Return to "triangle (CA)"](#triangle_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -616,37 +616,37 @@ Threshold = 1.0 (Å)<br>
 
 #### quadrilateral area (CA), area threshold = 0.0 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral0_8_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 0.8 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral1_6_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 1.6 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral2_4_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 2.4 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral3_2_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 3.2 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral4_0_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 4.0 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral8e9z5zhp_ca"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (CA)
@@ -665,37 +665,37 @@ Threshold = 1.0 (Å)<br>
 
 #### quadrilateral area (CA), area threshold = 0.0 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral0_8_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 0.8 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral1_6_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 1.6 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral2_4_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 2.4 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral3_2_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 3.2 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral4_0_ca"></a><br>
 
 #### quadrilateral area (CA), area threshold = 4.0 (Å2)<br>
 [Return to "quadrilateral (CA)"](#quadrilateral_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -731,37 +731,37 @@ Threshold = 1.0 (Å)<br>
 
 #### pentagon area (CA), area threshold = 0.0 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon0_8_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 0.8 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon1_6_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 1.6 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon2_4_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 2.4 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon3_2_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 3.2 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon4_0_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 4.0 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon8e9z5zhp_ca"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (CA)
@@ -780,37 +780,37 @@ Threshold = 1.0 (Å)<br>
 
 #### pentagon area (CA), area threshold = 0.0 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon0_8_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 0.8 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon1_6_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 1.6 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon2_4_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 2.4 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon3_2_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 3.2 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon4_0_ca"></a><br>
 
 #### pentagon area (CA), area threshold = 4.0 (Å2)<br>
 [Return to "pentagon (CA)"](#pentagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -846,37 +846,37 @@ Threshold = 1.0 (Å)<br>
 
 #### hexagon area (CA), area threshold = 0.0 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon0_8_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 0.8 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon1_6_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 1.6 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon2_4_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 2.4 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon3_2_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 3.2 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon4_0_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 4.0 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon8e9z5zhp_ca"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (CA)
@@ -895,37 +895,37 @@ Threshold = 1.0 (Å)<br>
 
 #### hexagon area (CA), area threshold = 0.0 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon0_8_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 0.8 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon1_6_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 1.6 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon2_4_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 2.4 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon3_2_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 3.2 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon4_0_ca"></a><br>
 
 #### hexagon area (CA), area threshold = 4.0 (Å2)<br>
 [Return to "hexagon (CA)"](#hexagon_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -962,37 +962,37 @@ Threshold = 1.0 (Å)<br>
 
 #### triangle area (sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle0_8_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle1_6_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle2_4_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle3_2_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle4_0_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/triangle_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/triangle_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle8e9z5zhp_sc"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (sidechain)
@@ -1011,37 +1011,37 @@ Threshold = 1.0 (Å)<br>
 
 #### triangle area (sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle0_8_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle1_6_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle2_4_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle3_2_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle4_0_sc"></a><br>
 
 #### triangle area (sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "triangle (sidechain)"](#triangle_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/triangle_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/triangle_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -1077,37 +1077,37 @@ Threshold = 1.0 (Å)<br>
 
 #### quadrilateral area (sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral0_8_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral1_6_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral2_4_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral3_2_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral4_0_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/quadrilateral_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/quadrilateral_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral8e9z5zhp_sc"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (sidechain)
@@ -1126,37 +1126,37 @@ Threshold = 1.0 (Å)<br>
 
 #### quadrilateral area (sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral0_8_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral1_6_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral2_4_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral3_2_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral4_0_sc"></a><br>
 
 #### quadrilateral area (sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "quadrilateral (sidechain)"](#quadrilateral_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/quadrilateral_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/quadrilateral_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -1192,37 +1192,37 @@ Threshold = 1.0 (Å)<br>
 
 #### pentagon area (sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon0_8_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon1_6_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon2_4_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon3_2_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon4_0_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/pentagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/pentagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon8e9z5zhp_sc"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (sidechain)
@@ -1241,37 +1241,37 @@ Threshold = 1.0 (Å)<br>
 
 #### pentagon area (sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon0_8_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon1_6_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon2_4_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon3_2_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon4_0_sc"></a><br>
 
 #### pentagon area (sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "pentagon (sidechain)"](#pentagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/pentagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/pentagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -1307,37 +1307,37 @@ Threshold = 1.0 (Å)<br>
 
 #### hexagon area (sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon0_8_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon1_6_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon2_4_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon3_2_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon4_0_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area/hexagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area/hexagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon8e9z5zhp_sc"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (sidechain)
@@ -1356,37 +1356,37 @@ Threshold = 1.0 (Å)<br>
 
 #### hexagon area (sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_0.0_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon0_8_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_0.8_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon1_6_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_1.6_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon2_4_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_2.4_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon3_2_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_3.2_area_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon4_0_sc"></a><br>
 
 #### hexagon area (sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "hexagon (sidechain)"](#hexagon_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area/hexagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area/hexagon_threshold_4.0_area_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -1423,37 +1423,37 @@ Threshold = 1.0 (Å)<br>
 
 #### triangle area (core-facing CA), area threshold = 0.0 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle0_8_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 0.8 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle1_6_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 1.6 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle2_4_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 2.4 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle3_2_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 3.2 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle4_0_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 4.0 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle8e9z5zhp_fi_ca"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (core-facing CA)
@@ -1472,37 +1472,37 @@ Threshold = 1.0 (Å)<br>
 
 #### triangle area (core-facing CA), area threshold = 0.0 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle0_8_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 0.8 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle1_6_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 1.6 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle2_4_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 2.4 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle3_2_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 3.2 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle4_0_fi_ca"></a><br>
 
 #### triangle area (core-facing CA), area threshold = 4.0 (Å2)<br>
 [Return to "triangle (core-facing CA)"](#triangle_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -1538,37 +1538,37 @@ Threshold = 1.0 (Å)<br>
 
 #### quadrilateral area (core-facing CA), area threshold = 0.0 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral0_8_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 0.8 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral1_6_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 1.6 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral2_4_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 2.4 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral3_2_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 3.2 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral4_0_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 4.0 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral8e9z5zhp_fi_ca"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (core-facing CA)
@@ -1587,37 +1587,37 @@ Threshold = 1.0 (Å)<br>
 
 #### quadrilateral area (core-facing CA), area threshold = 0.0 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral0_8_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 0.8 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral1_6_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 1.6 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral2_4_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 2.4 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral3_2_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 3.2 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral4_0_fi_ca"></a><br>
 
 #### quadrilateral area (core-facing CA), area threshold = 4.0 (Å2)<br>
 [Return to "quadrilateral (core-facing CA)"](#quadrilateral_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -1653,37 +1653,37 @@ Threshold = 1.0 (Å)<br>
 
 #### pentagon area (core-facing CA), area threshold = 0.0 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon0_8_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 0.8 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon1_6_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 1.6 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon2_4_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 2.4 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon3_2_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 3.2 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon4_0_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 4.0 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon8e9z5zhp_fi_ca"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (core-facing CA)
@@ -1702,37 +1702,37 @@ Threshold = 1.0 (Å)<br>
 
 #### pentagon area (core-facing CA), area threshold = 0.0 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon0_8_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 0.8 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon1_6_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 1.6 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon2_4_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 2.4 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon3_2_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 3.2 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon4_0_fi_ca"></a><br>
 
 #### pentagon area (core-facing CA), area threshold = 4.0 (Å2)<br>
 [Return to "pentagon (core-facing CA)"](#pentagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -1768,37 +1768,37 @@ Threshold = 1.0 (Å)<br>
 
 #### hexagon area (core-facing CA), area threshold = 0.0 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon0_8_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 0.8 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon1_6_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 1.6 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon2_4_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 2.4 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon3_2_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 3.2 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon4_0_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 4.0 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon8e9z5zhp_fi_ca"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (core-facing CA)
@@ -1817,37 +1817,37 @@ Threshold = 1.0 (Å)<br>
 
 #### hexagon area (core-facing CA), area threshold = 0.0 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon0_8_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 0.8 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon1_6_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 1.6 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon2_4_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 2.4 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon3_2_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 3.2 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon4_0_fi_ca"></a><br>
 
 #### hexagon area (core-facing CA), area threshold = 4.0 (Å2)<br>
 [Return to "hexagon (core-facing CA)"](#hexagon_fi_ca)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -1884,37 +1884,37 @@ Threshold = 1.0 (Å)<br>
 
 #### triangle area (core-facing sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle0_8_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle1_6_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle2_4_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle3_2_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle4_0_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/triangle_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/triangle_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle8e9z5zhp_fi_sc"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (core-facing sidechain)
@@ -1933,37 +1933,37 @@ Threshold = 1.0 (Å)<br>
 
 #### triangle area (core-facing sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle0_8_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle1_6_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle2_4_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle3_2_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="triangle4_0_fi_sc"></a><br>
 
 #### triangle area (core-facing sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "triangle (core-facing sidechain)"](#triangle_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/triangle_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/triangle_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -1999,37 +1999,37 @@ Threshold = 1.0 (Å)<br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral0_8_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral1_6_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral2_4_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral3_2_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral4_0_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/quadrilateral_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/quadrilateral_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral8e9z5zhp_fi_sc"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (core-facing sidechain)
@@ -2048,37 +2048,37 @@ Threshold = 1.0 (Å)<br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral0_8_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral1_6_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral2_4_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral3_2_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="quadrilateral4_0_fi_sc"></a><br>
 
 #### quadrilateral area (core-facing sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "quadrilateral (core-facing sidechain)"](#quadrilateral_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/quadrilateral_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/quadrilateral_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -2114,37 +2114,37 @@ Threshold = 1.0 (Å)<br>
 
 #### pentagon area (core-facing sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon0_8_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon1_6_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon2_4_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon3_2_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon4_0_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/pentagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/pentagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon8e9z5zhp_fi_sc"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (core-facing sidechain)
@@ -2163,37 +2163,37 @@ Threshold = 1.0 (Å)<br>
 
 #### pentagon area (core-facing sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon0_8_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon1_6_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon2_4_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon3_2_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="pentagon4_0_fi_sc"></a><br>
 
 #### pentagon area (core-facing sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "pentagon (core-facing sidechain)"](#pentagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/pentagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/pentagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>
@@ -2229,37 +2229,37 @@ Threshold = 1.0 (Å)<br>
 
 #### hexagon area (core-facing sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon0_8_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon1_6_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon2_4_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon3_2_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon4_0_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.4u15/ee_area_fi/hexagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.4u15/ee_area_fi/hexagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon8e9z5zhp_fi_sc"></a>
 ##### 8E9Z (active) - 5ZHP (inactive) (core-facing sidechain)
@@ -2278,37 +2278,37 @@ Threshold = 1.0 (Å)<br>
 
 #### hexagon area (core-facing sidechain), area threshold = 0.0 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_0.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon0_8_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 0.8 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_0.8_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon1_6_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 1.6 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_1.6_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon2_4_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 2.4 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_2.4_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon3_2_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 3.2 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_3.2_area_fi_class.png" alt="drawing" width="1000"/>
 
 <a name="hexagon4_0_fi_sc"></a><br>
 
 #### hexagon area (core-facing sidechain), area threshold = 4.0 (Å2)<br>
 [Return to "hexagon (core-facing sidechain)"](#hexagon_fi_sc)<br>
-<img src="diff_a.8e9z-i.5zhp/ee_area_fi/hexagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
+<img src="diff_ACM3.a.8e9z-ACM3.i.5zhp/ee_area_fi/hexagon_threshold_4.0_area_fi_class.png" alt="drawing" width="1000"/>
 
 <br>
 <br>

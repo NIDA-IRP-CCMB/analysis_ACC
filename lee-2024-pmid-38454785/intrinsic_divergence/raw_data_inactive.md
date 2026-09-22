@@ -35,7 +35,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_i.3pbl/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.i.3pbl/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -48,7 +48,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6cm4/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -61,7 +61,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6luq/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -74,7 +74,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.7dfp/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -388,7 +388,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_i.3pbl/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.i.3pbl/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -401,7 +401,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6cm4/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -414,7 +414,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6luq/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -427,7 +427,7 @@ Raw<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/pia_distmat.png" alt="drawing" width="600"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.7dfp/pia_distmat.png" alt="drawing" width="600"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>

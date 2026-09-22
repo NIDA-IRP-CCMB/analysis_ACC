@@ -20,7 +20,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="raw_a.7jvr/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.a.7jvr/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -31,7 +31,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="raw_a.8irs/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.a.8irs/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -42,7 +42,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="raw_i.6cm4/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.i.6cm4/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -53,7 +53,7 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="raw_i.6luq/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.i.6luq/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -64,207 +64,207 @@
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 
 <table><tr>
-<img src="raw_i.7dfp/bsi_matrix.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.i.7dfp/bsi_matrix.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 
 #### Pairwise distance difference
 ##### 7JVR (active) - 6CM4 (inactive)<br>
-<img src="diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 7JVR (active) - 6LUQ (inactive)<br>
-<img src="diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 7JVR (active) - 7DFP (inactive)<br>
-<img src="diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 8IRS (active) - 6CM4 (inactive)<br>
-<img src="diff_a.8irs-i.6cm4/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 8IRS (active) - 6LUQ (inactive)<br>
-<img src="diff_a.8irs-i.6luq/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 8IRS (active) - 7DFP (inactive)<br>
-<img src="diff_a.8irs-i.7dfp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/bsi_matrix/bsi_matrix_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/bsi_matrix/bsi_matrix_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -279,7 +279,7 @@
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="raw_a.7jvr/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.a.7jvr/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -290,7 +290,7 @@
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="raw_a.8irs/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.a.8irs/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -301,7 +301,7 @@
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="raw_i.6cm4/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.i.6cm4/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -312,7 +312,7 @@
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="raw_i.6luq/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.i.6luq/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -323,207 +323,207 @@
 [Return to "Sub-segments"](#Sub-segments)<br>
 
 <table><tr>
-<img src="raw_i.7dfp/pia_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.i.7dfp/pia_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 
 #### Pairwise distance difference
 ##### 7JVR (active) - 6CM4 (inactive)<br>
-<img src="diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 7JVR (active) - 6LUQ (inactive)<br>
-<img src="diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 7JVR (active) - 7DFP (inactive)<br>
-<img src="diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 8IRS (active) - 6CM4 (inactive)<br>
-<img src="diff_a.8irs-i.6cm4/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 8IRS (active) - 6LUQ (inactive)<br>
-<img src="diff_a.8irs-i.6luq/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 8IRS (active) - 7DFP (inactive)<br>
-<img src="diff_a.8irs-i.7dfp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/pia_distmat/pia_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/pia_distmat/pia_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -538,7 +538,7 @@
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="raw_a.7jvr/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.a.7jvr/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -549,7 +549,7 @@
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="raw_a.8irs/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.a.8irs/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -560,7 +560,7 @@
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="raw_i.6cm4/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.i.6cm4/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -571,7 +571,7 @@
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="raw_i.6luq/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.i.6luq/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -582,207 +582,207 @@
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 
 <table><tr>
-<img src="raw_i.7dfp/end_distmat.png" alt="drawing" width="600"/>
+<img src="raw_DRD2.i.7dfp/end_distmat.png" alt="drawing" width="600"/>
 <img src="../../grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 
 #### Pairwise distance difference
 ##### 7JVR (active) - 6CM4 (inactive)<br>
-<img src="diff_a.7jvr-i.6cm4/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6cm4/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 7JVR (active) - 6LUQ (inactive)<br>
-<img src="diff_a.7jvr-i.6luq/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.6luq/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.6luq/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 7JVR (active) - 7DFP (inactive)<br>
-<img src="diff_a.7jvr-i.7dfp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.7jvr-i.7dfp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.7jvr-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 8IRS (active) - 6CM4 (inactive)<br>
-<img src="diff_a.8irs-i.6cm4/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6cm4/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6cm4/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 8IRS (active) - 6LUQ (inactive)<br>
-<img src="diff_a.8irs-i.6luq/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.6luq/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.6luq/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 ##### 8IRS (active) - 7DFP (inactive)<br>
-<img src="diff_a.8irs-i.7dfp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/end_distmat/end_distmat_raw.png" alt="drawing" width="600"/>
 <br><br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.2.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.4.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.6.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_0.8.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
 <table><tr>
-<img src="diff_a.8irs-i.7dfp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
+<img src="diff_DRD2.a.8irs-DRD2.i.7dfp/end_distmat/end_distmat_cutoff_1.0.png" alt="drawing" width="600"/>
 <img src="../../color_class.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>

@@ -27,7 +27,7 @@
 [Return to top](#top)<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/bsi_matrix.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.a.7jvr/bsi_matrix.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -37,7 +37,7 @@
 [Return to top](#top)<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/bsi_matrix.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6cm4/bsi_matrix.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -47,7 +47,7 @@
 [Return to top](#top)<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/bsi_matrix.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6luq/bsi_matrix.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -57,7 +57,7 @@
 [Return to top](#top)<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/bsi_matrix.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.7dfp/bsi_matrix.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -67,7 +67,7 @@
 [Return to top](#top)<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmu/bsi_matrix.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmu/bsi_matrix.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -77,7 +77,7 @@
 [Return to top](#top)<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmv/bsi_matrix.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmv/bsi_matrix.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -87,7 +87,7 @@
 [Return to top](#top)<br>
 [Return to "Binding site residues"](#Binding-site-residues)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_i.3pbl/bsi_matrix.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.i.3pbl/bsi_matrix.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 </tr></table>
 <br>
@@ -107,7 +107,7 @@
 [Return to top](#top)<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/pia_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.a.7jvr/pia_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -116,7 +116,7 @@
 [Return to top](#top)<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/pia_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6cm4/pia_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -125,7 +125,7 @@
 [Return to top](#top)<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/pia_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6luq/pia_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -134,7 +134,7 @@
 [Return to top](#top)<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/pia_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.7dfp/pia_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -143,7 +143,7 @@
 [Return to top](#top)<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmu/pia_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmu/pia_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -152,7 +152,7 @@
 [Return to top](#top)<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmv/pia_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmv/pia_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -161,7 +161,7 @@
 [Return to top](#top)<br>
 [Return to "Sub-segments"](#Sub-segments)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_i.3pbl/pia_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.i.3pbl/pia_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -180,7 +180,7 @@
 [Return to top](#top)<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_a.7jvr/end_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.a.7jvr/end_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -189,7 +189,7 @@
 [Return to top](#top)<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6cm4/end_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6cm4/end_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -198,7 +198,7 @@
 [Return to top](#top)<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.6luq/end_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.6luq/end_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -207,7 +207,7 @@
 [Return to top](#top)<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_i.7dfp/end_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD2/raw_DRD2.i.7dfp/end_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -216,7 +216,7 @@
 [Return to top](#top)<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmu/end_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmu/end_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -225,7 +225,7 @@
 [Return to top](#top)<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_a.7cmv/end_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.a.7cmv/end_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
@@ -234,7 +234,7 @@
 [Return to top](#top)<br>
 [Return to "Extracellular-ends"](#Extracellular-ends)<br>
 <table><tr>
-<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_i.3pbl/end_distmat.png" alt="drawing" width="450"/>
+<img src="../../lee-2023-pmid-37540602/dopaminergic/DRD3/raw_DRD3.i.3pbl/end_distmat.png" alt="drawing" width="450"/>
 <img src="grey_ramp.png" alt="drawing" width="75"/></td>
 <br>
 
