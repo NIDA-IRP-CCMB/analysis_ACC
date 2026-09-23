@@ -2,7 +2,7 @@
 <br>
 # Raw data by condition
 [Return to "Combined MD simulations of D3R/Gi-quinpirole and D2R/Gi-quinpirole"](combine_md_qnp.md)<br>
-## Table of content
+## Contents
  - Distance<br>
    - [Binding site residues](#Binding-site-residues)<br>
    - [Sub-segments](#Sub-segments)<br>

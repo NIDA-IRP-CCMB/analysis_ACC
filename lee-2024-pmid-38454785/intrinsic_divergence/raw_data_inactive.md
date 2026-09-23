@@ -3,7 +3,7 @@
 # Raw data by structures
 [Return to "D2-like receptors (inactive structures)"](d2like_inactive.md)<br>
 [Return to "D2-like receptors"](readme.md)<br>
-## Table of content
+## Contents
  - Distance<br>
    - [Binding site residues](#Binding-site-residues)<br>
    - [Sub-segments](#Sub-segments)<br>

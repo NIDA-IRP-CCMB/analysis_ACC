@@ -6,7 +6,7 @@
      - [DRD2](acc_DRD2.md)
      - [DRD3](acc_DRD3.md)
 
-## Table of content
+## Contents
  - Distance<br>
    - [Binding site residues](#Binding-site-residues)<br>
    - [Sub-segments](#Sub-segments)<br>

@@ -3,7 +3,7 @@
 # Raw data by structures (DRD2)
 [Return to "DRD2"](acc_DRD2.md)<br>
 [Return to "D2-like receptors"](readme.md)<br>
-## Table of content
+## Contents
  - Distance<br>
    - [Binding site residues](#Binding-site-residues)<br>
    - [Sub-segments](#Sub-segments)<br>

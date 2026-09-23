@@ -6,7 +6,7 @@
 [Return to "adrenergic receptors"](../acc_subfamily_heatmap.md)<br>
 [Return to "(catecholaminergic receptors)"](../../catecholaminergic/acc_subfamily_heatmap.md)<br>
 [Return to "aminergic receptors"](../../acc_family_heatmap.md)<br>
-## Table of content
+## Contents
  - Distance<br>
    - [Binding site residues](#Binding-site-residues)<br>
    - [Sub-segments](#Sub-segments)<br>

@@ -2,7 +2,7 @@
 <br>
 # Raw data by condition
 [Return to "Combined MD simulations of D3R/Gi-PD128907, D3R/Gi-pramipexole and D2R/Gi-bromocriptine"](combine_md_ctrl.md)<br>
-## Table of content
+## Contents
  - Distance<br>
    - [Binding site residues](#Binding-site-residues)<br>
    - [Sub-segments](#Sub-segments)<br>

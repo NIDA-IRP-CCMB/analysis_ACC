@@ -4,7 +4,7 @@
 [Return to "5HT2C"](acc_subtype_heatmap.md)<br>
 [Return to "serotoninergic receptors"](../acc_subfamily_heatmap.md)<br>
 [Return to "aminergic receptors"](../../acc_family_heatmap.md)<br>
-## Table of content
+## Contents
  - Distance<br>
    - [Binding site residues](#Binding-site-residues)<br>
    - [Sub-segments](#Sub-segments)<br>

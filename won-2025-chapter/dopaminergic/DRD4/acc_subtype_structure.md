@@ -4,7 +4,7 @@
 [Return to "DRD4"](acc_subtype_heatmap.md)<br>
 [Return to "dopaminergic receptors"](../acc_subfamily_heatmap.md)<br>
 [Return to "dopamine receptors"](../../acc_family_heatmap.md)<br>
-## Table of content
+## Contents
  - Distance<br>
    - [Binding site residues](#Binding-site-residues)<br>
    - [Sub-segments](#Sub-segments)<br>
